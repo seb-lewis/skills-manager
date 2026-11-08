@@ -1,0 +1,14 @@
+node_modules/
+out/
+release/
+.DS_Store
+*.tsbuildinfo
+artifacts/
+.audit/
+AGENTS.md
+PLAN.md
+VERIFICATION.md
+*.log
+.env
+.env.*
+.npmrc
