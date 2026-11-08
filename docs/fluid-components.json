@@ -1,0 +1,256 @@
+{
+  "retrieved": "2026-11-08T06:11:24.223358+00:00",
+  "license": "MIT, Copyright 2026 Micka Touillaud",
+  "files": [
+    {
+      "registry": "button",
+      "url": "https://www.fluidfunctionalism.com/r/button.json",
+      "sourcePath": "registry/radix/button.tsx",
+      "installedPath": "src/renderer/components/ui/button.tsx",
+      "sha256": "b7049ab42dc06ce810589548f2d62c59f6663c69cb23cdb6a3dd3abb4aae4aab"
+    },
+    {
+      "registry": "checkbox",
+      "url": "https://www.fluidfunctionalism.com/r/checkbox.json",
+      "sourcePath": "registry/radix/checkbox.tsx",
+      "installedPath": "src/renderer/components/ui/checkbox.tsx",
+      "sha256": "94992df3d76f41ac895e9f1ac495169724ad7cab38aafadc0427f9cbab009d0b"
+    },
+    {
+      "registry": "dialog",
+      "url": "https://www.fluidfunctionalism.com/r/dialog.json",
+      "sourcePath": "registry/radix/dialog.tsx",
+      "installedPath": "src/renderer/components/ui/dialog.tsx",
+      "sha256": "d68c2f859e801e67e32ad3bc22164bbbcbf86fea6a7e2afce358019e6eecee92"
+    },
+    {
+      "registry": "dropdown",
+      "url": "https://www.fluidfunctionalism.com/r/dropdown.json",
+      "sourcePath": "registry/radix/dropdown.tsx",
+      "installedPath": "src/renderer/components/ui/dropdown.tsx",
+      "sha256": "42552af38b33152cf8859849b9c6c93fce6dadd9a47e630e98a70c0de47e6a38"
+    },
+    {
+      "registry": "dropdown",
+      "url": "https://www.fluidfunctionalism.com/r/dropdown.json",
+      "sourcePath": "registry/default/menu-item.tsx",
+      "installedPath": "src/renderer/components/ui/menu-item.tsx",
+      "sha256": "d6804e6e8624e46599ef02fa8fc9d84c9991aaa9c9dcdf6801a2801c47b7b8f9"
+    },
+    {
+      "registry": "dropdown",
+      "url": "https://www.fluidfunctionalism.com/r/dropdown.json",
+      "sourcePath": "registry/default/dropdown-search.tsx",
+      "installedPath": "src/renderer/components/ui/dropdown-search.tsx",
+      "sha256": "634b432323e481d9b6782abd94a32613c47be52baccf507c16846ebe53119d0c"
+    },
+    {
+      "registry": "dropdown",
+      "url": "https://www.fluidfunctionalism.com/r/dropdown.json",
+      "sourcePath": "registry/default/dropdown-sub.tsx",
+      "installedPath": "src/renderer/components/ui/dropdown-sub.tsx",
+      "sha256": "a777defaeaf808b370c1c56d2003e14ca84a30bd883a6dba0f6349614f72f4cd"
+    },
+    {
+      "registry": "elevated",
+      "url": "https://www.fluidfunctionalism.com/r/elevated.json",
+      "sourcePath": "registry/default/lib/elevated.tsx",
+      "installedPath": "src/renderer/lib/elevated.tsx",
+      "sha256": "1af5d74cdafa5259379abeb07d19949dfa9628ce20c14f10b664c66ee0985793"
+    },
+    {
+      "registry": "font-weight",
+      "url": "https://www.fluidfunctionalism.com/r/font-weight.json",
+      "sourcePath": "registry/default/lib/font-weight.ts",
+      "installedPath": "src/renderer/lib/font-weight.ts",
+      "sha256": "1b290a5eeb29cad9d9c835a26d66e77af8da5e1d412b68da31bd473460631d04"
+    },
+    {
+      "registry": "icon-context",
+      "url": "https://www.fluidfunctionalism.com/r/icon-context.json",
+      "sourcePath": "registry/default/lib/icon-context.tsx",
+      "installedPath": "src/renderer/lib/icon-context.tsx",
+      "sha256": "03cc85c4d867a2c64dac89981ed7400178d7aad60fecf1e0c6dcd398756f24b9"
+    },
+    {
+      "registry": "input",
+      "url": "https://www.fluidfunctionalism.com/r/input.json",
+      "sourcePath": "registry/default/input.tsx",
+      "installedPath": "src/renderer/components/ui/input.tsx",
+      "sha256": "ca76eadeba9408c0c539c8d24966f1247701f923330171ef2f81fb61ce94f7e7"
+    },
+    {
+      "registry": "omit",
+      "url": "https://www.fluidfunctionalism.com/r/omit.json",
+      "sourcePath": "registry/default/lib/omit.ts",
+      "installedPath": "src/renderer/lib/omit.ts",
+      "sha256": "58b67fea6265a2f99cfabb508cae67eecb36587519212ccb7eb4fff214146bbd"
+    },
+    {
+      "registry": "popup",
+      "url": "https://www.fluidfunctionalism.com/r/popup.json",
+      "sourcePath": "registry/default/lib/popup.ts",
+      "installedPath": "src/renderer/lib/popup.ts",
+      "sha256": "d6b73fe9ef7a809f49ff6d939f073fafa5b673df817ac64d496846445122a3de"
+    },
+    {
+      "registry": "scroll-area",
+      "url": "https://www.fluidfunctionalism.com/r/scroll-area.json",
+      "sourcePath": "registry/radix/scroll-area.tsx",
+      "installedPath": "src/renderer/components/ui/scroll-area.tsx",
+      "sha256": "5cd690f990f30585a7ec59b50936fc2e3fdeb958ce531fdc1eb2ee72885e687e"
+    },
+    {
+      "registry": "shape-context",
+      "url": "https://www.fluidfunctionalism.com/r/shape-context.json",
+      "sourcePath": "registry/default/lib/shape-context.tsx",
+      "installedPath": "src/renderer/lib/shape-context.tsx",
+      "sha256": "074659f614bfc996e722e7186a7d11b8d1da3a5cadb4e2b36c54665f2f889804"
+    },
+    {
+      "registry": "sidebar",
+      "url": "https://www.fluidfunctionalism.com/r/sidebar.json",
+      "sourcePath": "registry/radix/sidebar.tsx",
+      "installedPath": "src/renderer/components/ui/sidebar.tsx",
+      "sha256": "dc97a03cf07a45bcda01ff539b12e5384ae147e78968403acbb34c3529e6ba05"
+    },
+    {
+      "registry": "sidebar",
+      "url": "https://www.fluidfunctionalism.com/r/sidebar.json",
+      "sourcePath": "registry/default/sidebar-core.tsx",
+      "installedPath": "src/renderer/components/ui/sidebar-core.tsx",
+      "sha256": "99bd711e20d4198fd0f3025dad049e35f0a1ef41c163d4c2bcfbb71fd8c0bdc9"
+    },
+    {
+      "registry": "sidebar",
+      "url": "https://www.fluidfunctionalism.com/r/sidebar.json",
+      "sourcePath": "registry/default/sidebar-menu.tsx",
+      "installedPath": "src/renderer/components/ui/sidebar-menu.tsx",
+      "sha256": "c154f510cc16d0023aa1a8507b031be7f2dd81bcc4169eee13b372d21c132c72"
+    },
+    {
+      "registry": "size-context",
+      "url": "https://www.fluidfunctionalism.com/r/size-context.json",
+      "sourcePath": "registry/default/lib/size-context.tsx",
+      "installedPath": "src/renderer/lib/size-context.tsx",
+      "sha256": "03020438615b960ec8009ce662eebaf1a1925fd3fcd1476d3882a9613f46e603"
+    },
+    {
+      "registry": "size-context",
+      "url": "https://www.fluidfunctionalism.com/r/size-context.json",
+      "sourcePath": "registry/default/lib/type-scale.ts",
+      "installedPath": "src/renderer/lib/type-scale.ts",
+      "sha256": "78c430d2e73f1c1d383d8ef5848c00e15ef020cecfc6145d407bed3b2fd0d574"
+    },
+    {
+      "registry": "springs",
+      "url": "https://www.fluidfunctionalism.com/r/springs.json",
+      "sourcePath": "registry/default/lib/springs.ts",
+      "installedPath": "src/renderer/lib/springs.ts",
+      "sha256": "b5d1c7c55ba4b865ac1156effc9ae41e95e4fdd08b42cefcda2854e93b817057"
+    },
+    {
+      "registry": "surface-classes",
+      "url": "https://www.fluidfunctionalism.com/r/surface-classes.json",
+      "sourcePath": "registry/default/lib/surface-classes.ts",
+      "installedPath": "src/renderer/lib/surface-classes.ts",
+      "sha256": "cb42a715b587950d9adecbb7994f8b67cdea101eed0852a732365549e7cdc896"
+    },
+    {
+      "registry": "surface-context",
+      "url": "https://www.fluidfunctionalism.com/r/surface-context.json",
+      "sourcePath": "registry/default/lib/surface-context.tsx",
+      "installedPath": "src/renderer/lib/surface-context.tsx",
+      "sha256": "17352842c40d49bd6a90bf8ca21c789fdde8be8904d9e5d667c71f365c48c120"
+    },
+    {
+      "registry": "switch",
+      "url": "https://www.fluidfunctionalism.com/r/switch.json",
+      "sourcePath": "registry/radix/switch.tsx",
+      "installedPath": "src/renderer/components/ui/switch.tsx",
+      "sha256": "2ef1fbc666601c2ab514ea18fcb9bb76f1390dc6d07f569641606d219235a810"
+    },
+    {
+      "registry": "tooltip",
+      "url": "https://www.fluidfunctionalism.com/r/tooltip.json",
+      "sourcePath": "registry/radix/tooltip.tsx",
+      "installedPath": "src/renderer/components/ui/tooltip.tsx",
+      "sha256": "0c33d4fdb174c026df7bf3045808de4e747bd70194cc337957dcc35d228dca02"
+    },
+    {
+      "registry": "use-fluid-hover",
+      "url": "https://www.fluidfunctionalism.com/r/use-fluid-hover.json",
+      "sourcePath": "registry/default/hooks/use-fluid-hover.ts",
+      "installedPath": "src/renderer/hooks/use-fluid-hover.ts",
+      "sha256": "42cbbfb077158073edda853b9d4dc0ef1d34c82ec4776eaacc91df4823fa93f5"
+    },
+    {
+      "registry": "use-fluid-hover",
+      "url": "https://www.fluidfunctionalism.com/r/use-fluid-hover.json",
+      "sourcePath": "registry/default/fluid-hover-highlight.tsx",
+      "installedPath": "src/renderer/components/ui/fluid-hover-highlight.tsx",
+      "sha256": "6622023199a4e1e99fcb43af10da0db3caf1da8fd95de1260909190925a658c8"
+    },
+    {
+      "registry": "use-merge-split",
+      "url": "https://www.fluidfunctionalism.com/r/use-merge-split.json",
+      "sourcePath": "registry/default/hooks/use-merge-split.tsx",
+      "installedPath": "src/renderer/hooks/use-merge-split.tsx",
+      "sha256": "937703fd1097c2e2152701ac692afe813a35393b6b570aa3da4ecfe19783c888"
+    },
+    {
+      "registry": "use-touch-primary",
+      "url": "https://www.fluidfunctionalism.com/r/use-touch-primary.json",
+      "sourcePath": "registry/default/hooks/use-touch-primary.tsx",
+      "installedPath": "src/renderer/hooks/use-touch-primary.tsx",
+      "sha256": "7f8faf99f09138e096119da2b2792fb542f4560cd02a4a5974ce9dc549b6ac62"
+    },
+    {
+      "registry": "utils",
+      "url": "https://www.fluidfunctionalism.com/r/utils.json",
+      "sourcePath": "registry/default/lib/utils.ts",
+      "installedPath": "src/renderer/lib/utils.ts",
+      "sha256": "48b9e71181e576e0273bd95f7f10a973929b07096c70c794bb54ec07911ef66a"
+    },
+    {
+      "registry": "accordion",
+      "url": "https://www.fluidfunctionalism.com/r/accordion.json",
+      "sourcePath": "registry/radix/accordion.tsx",
+      "installedPath": "src/renderer/components/ui/accordion.tsx",
+      "sha256": "c331d24c7c398d936624f7d34470f1de170dace06fce459fd94d3cfe4510604c",
+      "upstreamSha256": "e7ea64815552bb33da5856680a7c82f1f1174ee0332eeb46a825d6b59ea1daf3",
+      "modification": "Caret angles only: 90 degrees closed (down), 270 degrees open (up). Official icon and spring retained."
+    },
+    {
+      "registry": "radio-group",
+      "url": "https://www.fluidfunctionalism.com/r/radio-group.json",
+      "sourcePath": "registry/radix/radio-group.tsx",
+      "installedPath": "src/renderer/components/ui/radio-group.tsx",
+      "sha256": "6728f7be41d3d1afa955d9d04ae75363010182079638f21f622a886a501a49bc"
+    },
+    {
+      "registry": "tabs",
+      "url": "https://www.fluidfunctionalism.com/r/tabs.json",
+      "sourcePath": "registry/radix/tabs.tsx",
+      "installedPath": "src/renderer/components/ui/tabs.tsx",
+      "sha256": "dec41a706bf2150c743d077de800a253186f431f3dfdbd379b4299f7b48c92ed"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-accordion",
+    "@radix-ui/react-checkbox",
+    "@radix-ui/react-dialog",
+    "@radix-ui/react-dropdown-menu",
+    "@radix-ui/react-radio-group",
+    "@radix-ui/react-scroll-area",
+    "@radix-ui/react-slot",
+    "@radix-ui/react-switch",
+    "@radix-ui/react-tooltip",
+    "class-variance-authority",
+    "clsx",
+    "lucide-react",
+    "motion",
+    "tailwind-merge",
+    "@radix-ui/react-tabs"
+  ]
+}
