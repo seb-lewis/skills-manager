@@ -16,6 +16,6 @@ The ZIP includes the app only. `SHA256SUMS.txt` records its checksum.
 - No Intel, Windows, or Linux binary in this release.
 - Full screen-reader use and large-collection timing are not verified.
 - A fresh public marketplace download is not part of the release check. Local import and Git behavior use local fixtures.
-- Undo turns aliases into independent skill folders.
+- Undo replaces skill links with normal skill folders that no longer need the manager.
 - Recovery can stop if files change during an unfinished restore. Canonical copies remain until all independent copies are checked.
 - The app has no automatic updater. Replace the app bundle to update it.
